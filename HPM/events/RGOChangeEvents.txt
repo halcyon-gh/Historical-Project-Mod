@@ -1659,6 +1659,7 @@ province_event = {
                     province_id = 1582       #Longan - China
                     province_id = 2062       #Shangzhou - China
                     #province_id = 1561       #Yenan - China
+                    province_id = 391    #Hasselt
                 }
             }
             AND = {
@@ -1991,7 +1992,7 @@ province_event = {
             AND = {
                 OR = {
                     province_id = 462  #Rodez (Aveyron)
-                    #province_id = 394  #Charleroi
+                    province_id = 394  #Charleroi
                     province_id = 1690  #Marrakesh
                     province_id = 1686  #Fez
                     province_id = 1682  #Meknes
