@@ -50,45 +50,45 @@
         size = 102
     }
 
-    ###### French
+    ###### French / Wallonian
     aristocrats = {
-        culture = french
+        culture = wallonian
         religion = catholic
         size = 315
     }
 
     officers = {
-        culture = french
+        culture = wallonian
         religion = catholic
         size = 43
     }
 
     bureaucrats = {
-        culture = french
+        culture = wallonian
         religion = catholic
         size = 212
     }
 
     clergymen = {
-        culture = french
+        culture = wallonian
         religion = catholic
         size = 509
     }
 
     artisans = {
-        culture = french
+        culture = wallonian
         religion = catholic
         size = 2281
     }
 
     soldiers = {
-        culture = french
+        culture = wallonian
         religion = catholic
         size = 448
     }
 
     farmers = {
-        culture = french
+        culture = wallonian
         religion = catholic
         size = 8589
     }
