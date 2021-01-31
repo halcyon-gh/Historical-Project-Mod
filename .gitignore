@@ -1,10 +1,16 @@
-
-# Ignore SSFF
-SquareShadedFlagFrame.mod
-SquareShadedFlagFrame/
+# Don't track zip/python files
 *.7z
 *.zip
-HPM/events/Debug_events.txt
 *.py
 *.pyc
-HPM_old.mod
+
+# Don't track debug events
+HPM/events/Debug_events.txt
+
+# Ignore other mods
+*.mod
+*/
+
+# Except HPM
+!HPM.mod
+!/HPM
