@@ -108,7 +108,7 @@ army = {
 
 navy = {
     name = "Marine Royale"
-    location = 390
+    location = 388
 
     ship = {
         name= "Congrès"
