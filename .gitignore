@@ -9,8 +9,8 @@ HPM/events/Debug_events.txt
 
 # Ignore other mods
 *.mod
-*/
+*/*
 
 # Except HPM
 !HPM.mod
-!/HPM
+!/HPM/*
