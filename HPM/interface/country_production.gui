@@ -479,7 +479,7 @@ guiTypes = {
 			#############
 			guiButtonType = {
 				name = "select_all"
-				position = { x= 780 y = 50}
+				position = { x= 782 y = 50}
 				quadTextureSprite = "GFX_button_thin_160"	
 				buttonText="PRODUCTION_SELECT_ALL"	
 				buttonFont = "vic_18_black"
@@ -489,7 +489,7 @@ guiTypes = {
 
 			guiButtonType = {
 				name = "deselect_all"
-				position = { x= 780 y = 73}
+				position = { x= 782 y = 73}
 				quadTextureSprite = "GFX_button_thin_160"		
 				buttonText="PRODUCTION_DESELECT_ALL"	
 				buttonFont = "vic_18_black"
@@ -499,7 +499,7 @@ guiTypes = {
 
 			guiButtonType = {
 				name = "show_empty_states"
-				position = { x= 780 y = 96}
+				position = { x= 782 y = 96}
 				quadTextureSprite = "GFX_button_thin_160"		
 				buttonText="PRODUCTION_SHOW_EMPTY_STATES"	
 				buttonFont = "vic_18_black"
@@ -543,7 +543,7 @@ guiTypes = {
 				name = "filter_bounds"
 				backGround =""
 				size = { x=750  y=200 }
-				position = { x=33 y=56 }			
+				position = { x=29 y=56 }			
 				moveable = 0
 				dontRender = ""
 				horizontalBorder = "0"
@@ -815,7 +815,7 @@ guiTypes = {
 	windowType = {
 		name = "goods_filter_template"
 		backGround =""
-		size = { x=31  y=31 }
+		size = { x=30  y=31 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder = "0"
@@ -837,7 +837,7 @@ guiTypes = {
 		iconType = {
 			name = "goods_type"
 			spriteType = "GFX_resources_transparent"
-			position = { x=2 y =2 }
+			position = { x=2 y=3 }
 		}	
 	}
 
