@@ -1118,7 +1118,7 @@ political_decisions = {
             badboy = 5
             HAI_2213 = { add_core = ATC }
             ENG_203 = { add_core = ATC }
-            ENG_2224 = { add_core = ATC }
+            #ENG_2224 = { add_core = ATC }
             ENG_2228 = { add_core = ATC }
             any_country = {
                 limit = {
@@ -1126,7 +1126,7 @@ political_decisions = {
                         OR = {
                             region = HAI_2213
                             region = ENG_203
-                            region = ENG_2224
+                            #region = ENG_2224
                             region = ENG_2228
                         }
                     }
