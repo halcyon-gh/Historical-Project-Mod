@@ -32,7 +32,7 @@ army = {
     regiment = {
         name= "1er Brigade d'Artillerie"
         type = artillery
-        home = 392 #Liege
+        home = 392 #Namur
     }
 
 }
@@ -62,7 +62,7 @@ army = {
 
 army = {
     name = "3eme Division d'Infanterie"
-    location = 388 #Brugges
+    location = 388 #Bruges
     regiment = {
         name= "7eme Brigade d'Infanterie"
         type = infantry
@@ -72,13 +72,13 @@ army = {
     regiment = {
         name= "8eme Brigade d'Infanterie"
         type = infantry
-        home = 387
+        home = 389 #Ghent
     }
 
     regiment = {
         name= "9eme Brigade d'Infanterie"
         type = infantry
-        home = 398 #Arlon
+        home = 387 #Brussels
     }
 
 }
@@ -95,13 +95,13 @@ army = {
     regiment = {
         name= "2eme Brigade de Cavalerie"
         type = cuirassier
-        home = 392 #Liege
+        home = 388 #Bruges
     }
 
     regiment = {
         name= "3e Cavalerie Brigade"
         type = cuirassier
-        home = 391 #Hasselt
+        home = 390 #Antwerp
     }
 
 }

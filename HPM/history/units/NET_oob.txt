@@ -116,7 +116,7 @@ army = {
     regiment = {
         name= "1e Artillerie Brigade"
         type = artillery
-        home = 380
+        home = 379
     }
 
     regiment = {
