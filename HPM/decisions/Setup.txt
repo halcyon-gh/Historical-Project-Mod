@@ -315,6 +315,26 @@ political_decisions = {
 
         ai_will_do = { factor = 0 }
     }
+	
+    rename_generality_lands = {
+        picture = starting_options
+        alert = no
+        potential = {
+            ai = no
+            has_country_flag = country_looking_through_options
+        }
+
+        allow = {
+        }
+
+        effect = {
+            country_event = 42001
+        }
+
+        ai_will_do = { factor = 0 }
+    }
+	
+	
 
 ####Disable Trade Policy setting
     disable_trade_policy_globally = {

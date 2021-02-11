@@ -1,0 +1,29 @@
+country_event = {
+    id = 42001
+    title = "EVTNAME42001" # Rename Dutch Generality Lands / Zeeland
+    desc = "EVTDESC42001"
+
+    is_triggered_only = yes
+
+    option = {
+        name = "EVT42001OPTA"
+        379 = { state_scope = { change_region_name = "Brabant" } }
+    }
+	option = {
+        name = "EVT42001OPTB"
+        379 = { state_scope = { change_region_name = "Limburg" } }
+    }
+    option = {
+        name = "EVT42001OPTC"
+        379 = { state_scope = { change_region_name = "Maasland" } }
+    }
+	option = {
+        name = "EVT42001OPTD"
+        379 = { state_scope = { change_region_name = "North-Brabant" } }
+    }
+	option = {
+        name = "EVT42001OPTE"
+        379 = { state_scope = { change_region_name = "Zeeland" } }
+    }
+
+}

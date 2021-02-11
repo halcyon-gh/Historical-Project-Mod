@@ -1,0 +1,14 @@
+PROV379;Den Bosch;;;;;;;;;;;;x
+PROV380;Terneuzen;;;;;;;;;;;;x
+PROV381;Maastricht;;;;;;;;;;;;x
+NET_379;Generality Lands;;;;;;;;;;;;x
+NET_382;Gelderland;;;;;;;;;;;;x
+rename_generality_lands_title;Rename the Generality Lands;;;;;;;;;;;;x
+rename_generality_lands_desc;Select a new name for the former Dutch generality lands. Options are Brabant, Limburg, Maasland, North-Brabant, and Zeeland.;;;;;;;;;;;;x
+EVTNAME42001;Rename the Generality Lands;;;;;;;;;;;;x
+EVTDESC42001;Which new name shall we use for the former Dutch Generality Lands?;;;;;;;;;;;;x
+EVT42001OPTA;Brabant;;;;;;;;;;;;x
+EVT42001OPTB;Limburg;;;;;;;;;;;;x
+EVT42001OPTC;Maasland;;;;;;;;;;;;x
+EVT42001OPTD;North-Brabant;;;;;;;;;;;;x
+EVT42001OPTE;Zeeland;;;;;;;;;;;;x
