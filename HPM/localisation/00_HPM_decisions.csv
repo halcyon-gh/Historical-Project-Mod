@@ -2031,3 +2031,5 @@ mark_down_landlocked_title;Occupation of Landlocked Territories;;;;;;;;;;;;;
 mark_down_landlocked_desc;A neighbouring country is occupying one of our landlocked provinces.;;;;;;;;;;;;;
 take_landlocked_provinces_title;Retaking Landlocked Territories;;;;;;;;;;;;;
 take_landlocked_provinces_desc;Neighbouring territories that rightfully belong to us but are under occupation by a foreign power are currently landlocked, defenseless against out de facto occupation..;;;;;;;;;;;;;
+rename_generality_lands_title;Rename the Generality Lands;;;;;;;;;;;;x
+rename_generality_lands_desc;Select a new name for the former Dutch generality lands. Options are Brabant, Limburg, Maasland, North-Brabant, and Zeeland.;;;;;;;;;;;;x

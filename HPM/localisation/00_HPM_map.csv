@@ -447,8 +447,10 @@ RUS_345;Turku;;;;;;;;;;;;x
 RUS_360;Lithuania;;;;;;;;;;;;x
 HOL_369;Holstein;;;;;;;;;;;;x
 SCH_370;Schleswig;;;;;;;;;;;;x
-NET_379;Zeeland;;;;;;;;;;;;x
-PROV381;Limburg;;;;;;;;;;;;x
+PROV379;Den Bosch;;;;;;;;;;;;x
+PROV380;Terneuzen;;;;;;;;;;;;x
+NET_379;Generality Lands;;;;;;;;;;;;x
+NET_382;Gelderland;;;;;;;;;;;;x
 BEL_387;Flanders;;;;;;;;;;;;x
 BEL_394;Wallonia;;;;;;;;;;;;x
 HAN_528;Lower Elbe;;;;;;;;;;;;x

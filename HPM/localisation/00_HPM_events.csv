@@ -5320,3 +5320,10 @@ EVTOPT31321B;Perhaps it would be better to not let them join.;;;;;;;;;;;;;
 EVTNAME6016826;The $COUNTRY_ADJ$ Exclaves;;;;;;;;;;;;;
 EVTDESC6016826;$FROMCOUNTRY$ moved in troops and took control of $COUNTRY_ADJ$ territory that were functioning as effective exclaves. Due to their situation, there's little we can do to retake them back without a full-blown war.;;;;;;;;;;;;;
 EVT6016826OPTA;A minor setback.;;;;;;;;;;;;;
+EVTNAME42001;Rename the Generality Lands;;;;;;;;;;;;x
+EVTDESC42001;Which new name shall we use for the former Dutch Generality Lands?;;;;;;;;;;;;x
+EVT42001OPTA;Brabant;;;;;;;;;;;;x
+EVT42001OPTB;Limburg;;;;;;;;;;;;x
+EVT42001OPTC;Maasland;;;;;;;;;;;;x
+EVT42001OPTD;North-Brabant;;;;;;;;;;;;x
+EVT42001OPTE;Zeeland;;;;;;;;;;;;x
