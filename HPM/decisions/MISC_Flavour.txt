@@ -93,18 +93,15 @@ political_decisions = {
     claim_artois = {
         picture = NET_claim_artois
         potential = {
-            tag = NET
             OR = {
-                AND = {
-                    owns = 394 #Wallonia
-                    owns = 387 #Flanders
-                    owns = 397 #Luxembourg
-                }
-                AND = {
-                    owns = 387 #Brussels
-                    owns = 392 #Namur
-                    owns = 397 #Luxembourg
-                }
+                tag = NET
+                tag = BEL
+            }
+            AND = {
+                owns = 379 #North-Brabant/Zeeland
+                owns = 387 #Flanders
+                owns = 395 #Wallonia
+                owns = 397 #Luxembourg
             }
             NOT = { has_country_flag = artois_claimed }
         }
@@ -122,7 +119,7 @@ political_decisions = {
         effect = {
             badboy = 5
             set_country_flag = artois_claimed
-            FRA_404 = { add_core = NET }
+            FRA_404 = { add_core = THIS }
             relation = {
                 who = FRA
                 value = -400

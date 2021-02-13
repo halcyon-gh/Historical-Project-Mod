@@ -92,17 +92,17 @@ political_decisions = {
     picture = force_publique
         potential = {
             tag = BEL
+            any_owned_province = {
+                continent = africa
+                is_colonial = yes
+            }			
+            NOT = { has_country_flag = force_publique_formed }
+        }
+        allow = {
             OR = {
                 government = hms_government
                 government = prussian_constitutionalism
                 government = absolute_monarchy
-            }
-            NOT = { has_country_flag = force_publique_formed }
-        }
-        allow = {
-            any_owned_province = {
-                continent = africa
-                is_colonial = yes
             }
             military_logistics = 1
         }
@@ -111,10 +111,7 @@ political_decisions = {
             any_pop = {
                 limit = {
                     location = { continent = africa }
-                    NOT = {
-                        has_pop_culture = wallonian
-                        has_pop_culture = flemish
-                    }
+                    is_accepted_culture = no
                 }
                 consciousness = 4
                 militancy = 3

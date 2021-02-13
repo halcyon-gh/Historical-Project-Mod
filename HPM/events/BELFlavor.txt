@@ -238,7 +238,7 @@ country_event = {
 
     option = {
         name = "EVT36709OPTA"
-        badboy = -4
+        badboy = -5
         BEL = { country_event = 36710 }
         relation = { who = ENG value = 150 }
         relation = { who = FRA value = 150 }
@@ -259,7 +259,7 @@ country_event = {
 
     option = {
         name = "EVT36709OPTB"
-        badboy = 2
+        badboy = 5
         ENG = {
             diplomatic_influence = { who = THIS value = -100 }
             relation = { who = THIS value = -100 }
@@ -306,7 +306,7 @@ country_event = {
 
     option = {
         name = "EVT36710OPTA"
-        badboy = -2
+        badboy = -5
         prestige = -20
         relation = { who = ENG value = 50 }
         relation = { who = NET value = 150 }
@@ -340,7 +340,7 @@ country_event = {
 
     option = {
         name = "EVT36710OPTB"
-        badboy = 2
+        badboy = 5
         random_owned = {
             limit = { LUX = { exists = no } }
             398 = { 
@@ -589,7 +589,7 @@ country_event = {
     option = {
         name = "EVT36716OPTB"
         prestige = 30
-        badboy = 10
+        badboy = 5
         end_war = NET
         any_country = {
             limit = {
@@ -674,7 +674,7 @@ country_event = {
     option = {
         name = "EVT36716OPTC"
         relation = { who = NET value = -400 }
-        badboy = 8
+        badboy = 10
         war_exhaustion = 10
         any_greater_power = {
             limit = {
