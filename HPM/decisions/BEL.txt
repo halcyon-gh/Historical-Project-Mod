@@ -515,7 +515,7 @@ political_decisions = {
 
         allow = {
             war = no
-            owns = 392
+            owns = 395
         }
 
         effect = {
@@ -529,7 +529,7 @@ political_decisions = {
             remove_accepted_culture = flemish
             remove_accepted_culture = dutch
             add_accepted_culture = picard
-            capital = 392
+            capital = 395
             any_pop = {
                 limit = { has_pop_culture = wallonian }
                 militancy = -3
@@ -556,7 +556,7 @@ political_decisions = {
             war = no
             owns = 387
             OR = {
-                owns = 392
+                owns = 395
                 WLL = {
                     war = no
                     exists = yes
@@ -623,7 +623,7 @@ political_decisions = {
 
         allow = {
             war = no
-            owns = 392
+            owns = 395
             OR = {
                 owns = 387
                 FLA = {
@@ -656,7 +656,7 @@ political_decisions = {
             }
             change_tag = BEL
             add_accepted_culture = flemish
-            capital = 392
+            capital = 395
             random_country = {
                 limit = {
                     tag = FLA
