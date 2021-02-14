@@ -7,7 +7,7 @@ political_decisions = {
             BEL = { exists = yes }
             NET = {
                 exists = yes
-                NOT = { any_owned_province = { is_core = BEL } }
+                NOT = { any_owned_province = { is_core = FLA } }
                 NOT = { has_country_flag = signed_treaty_of_london }
             }
             NOT = { has_country_flag = mediated_belgian_independence }
