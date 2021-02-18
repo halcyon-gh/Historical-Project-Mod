@@ -17216,13 +17216,13 @@
 
     building_position = {
         fort = {
-            x = 2868.977273
-            y = 1655.954545
+            x = 2868.676471
+            y = 1656.294118
         }
 
         naval_base = {
-            x = 2859.200000
-            y = 1658.250000
+            x = 2859.161765
+            y = 1658.117647
         }
 
     }
@@ -17899,74 +17899,89 @@
 } # Lille
 
 399 = {
-    unit = {
-        x = 2850.000000
-        y = 1642.000000
-    }
-
     text_position = {
-        x = 2849.699951
-        y = 1639.500000
+        x = 2853.0
+        y = 1640.0
     }
 
-    text_scale = 2.000000
-    building_construction = {
-        x = 2844.000000
-        y = 1640.000000
+    text_rotation = 5.497787
+    text_scale = 2.300000
+    unit = {
+        x = 2850.225490
+        y = 1642.944118
     }
 
     factory = {
-        x = 2854.899902
-        y = 1639.000000
+        x = 2843.706863
+        y = 1648.446078
+    }
+
+    building_construction = {
+        x = 2845.800000
+        y = 1645.725000
     }
 
     building_position = {
         fort = {
-            x = 2855.000000
-            y = 1638.000000
+            x = 2855.219118
+            y = 1643.721569
         }
 
         railroad = {
-            x = 2851.199951
-            y = 1640.000000
+            x = 2852.348529
+            y = 1642.017157
         }
 
+        naval_base = {
+            x = 2841.105392
+            y = 1651.167157
+        }
+
+    }
+
+    building_rotation = {
+        naval_base = 1.570796
     }
 
 } # Dunkirk
 
 400 = {
+    text_position = {
+        x = 2835.139706
+        y = 1642.5
+    }
+
+    text_rotation = 1.221731
+    text_scale = 2.100000
     unit = {
         x = 2835.000000
         y = 1644.000000
     }
 
-    text_position = {
-        x = 2837.800049
-        y = 1641.900024
+    factory = {
+        x = 2832.485294
+        y = 1645.602941
     }
 
-    text_rotation = 1.221731
-    text_scale = 2.100000
     building_construction = {
-        x = 2836.699951
-        y = 1633.900024
+        x = 2833.519118
+        y = 1637.835294
     }
 
     military_construction = {
-        x = 2833.000000
-        y = 1636.000000
-    }
-
-    factory = {
-        x = 2843.399902
-        y = 1648.599976
+        x = 2836.285294
+        y = 1636.466176
     }
 
     building_position = {
         fort = {
-            x = 2840.699951
-            y = 1645.199951
+            x = 2835.866176
+            y = 1648.089706
+        }
+
+        railroad = {
+            x = 2833.183824
+            y = 1640.936765
         }
 
         naval_base = {
@@ -17974,73 +17989,83 @@
             y = 1641.000000
         }
 
-        railroad = {
-            x = 2837.399902
-            y = 1644.400024
-        }
-
-    }
-
-    spawn_railway_track = {
-        {
-            x = 2847.604492
-            y = 1647.299683
-        }
-
     }
 
     building_rotation = {
-        aeroplane_factory = 0.523599
         naval_base = 0.000001
+        aeroplane_factory = 0.523599
     }
 
 } # Arras
 
 401 = {
-    unit = {
-        x = 2847.000000
-        y = 1633.000000
-    }
-
     text_position = {
-        x = 2847.000000
-        y = 1629.900024
+        x = 2845.500000
+        y = 1636.811765
     }
 
     text_scale = 2.300000
+    unit = {
+        x = 2847.305882
+        y = 1639.949020
+    }
+
+    factory = {
+        x = 2841.627451
+        y = 1639.541176
+    }
+
+    building_construction = {
+        x = 2851.227451
+        y = 1634.082353
+    }
+
+    military_construction = {
+        x = 2838.364706
+        y = 1640.952941
+    }
+
+    building_position = {
+        fort = {
+            x = 2840.278431
+            y = 1643.588235
+        }
+
+        railroad = {
+            x = 2849.094118
+            y = 1637.188235
+        }
+
+    }
+
 } # Amiens
 
 402 = {
+    text_position = {
+        x = 2842.207843
+        y = 1626.478922
+    }
+
+    text_scale = 2.300000
     unit = {
         x = 2835.000000
         y = 1627.000000
     }
 
-    text_position = {
-        x = 2834.800049
-        y = 1623.599976
-    }
-
-    text_scale = 2.300000
-    building_construction = {
-        x = 2831.000000
-        y = 1628.300049
-    }
-
     factory = {
-        x = 2842.800049
-        y = 1623.099976
+        x = 2841.609804
+        y = 1629.558824
+    }
+
+    building_construction = {
+        x = 2832.669118
+        y = 1631.113725
     }
 
     building_position = {
         fort = {
-            x = 2848.199951
-            y = 1623.400024
-        }
-
-        naval_base = {
-            x = 2825.199951
-            y = 1630.800049
+            x = 2850.460784
+            y = 1626.628431
         }
 
         railroad = {
@@ -18048,18 +18073,11 @@
             y = 1627.000000
         }
 
-    }
-
-    spawn_railway_track = {
-        {
-            x = 2832.703613
-            y = 1639.197266
+        naval_base = {
+            x = 2825.199951
+            y = 1630.800049
         }
 
-    }
-
-    building_nudge = {
-        naval_base = -0.050000
     }
 
     building_rotation = {
@@ -18069,18 +18087,23 @@
 } # Laon
 
 403 = {
-    unit = {
-        x = 2860.000000
-        y = 1618.000000
-    }
-
     text_position = {
-        x = 2859.899902
-        y = 1615.199951
+        x = 2861.366667
+        y = 1617.559804
     }
 
     text_rotation = 6.283185
     text_scale = 2.300000
+    unit = {
+        x = 2861.366667
+        y = 1624.027941
+    }
+
+    factory = {
+        x = 2853.600098
+        y = 1621.000000
+    }
+
     building_construction = {
         x = 2865.600098
         y = 1621.500000
@@ -18089,11 +18112,6 @@
     military_construction = {
         x = 2854.100098
         y = 1616.000000
-    }
-
-    factory = {
-        x = 2853.600098
-        y = 1621.000000
     }
 
     building_position = {
@@ -18109,31 +18127,18 @@
 
     }
 
-    spawn_railway_track = {
-        {
-            x = 0.000000
-            y = 0.000000
-        }
-
-        {
-            x = 2842.998047
-            y = 1623.499634
-        }
-
-    }
-
 } # Cambrai
 
 404 = {
     text_position = {
-        x = 2863.699951
-        y = 1629.199951
+        x = 2862.0
+        y = 1633.509804
     }
 
-    text_scale = 1.900000
+    text_scale = 1.800000
     unit = {
-        x = 2864.000000
-        y = 1631.000000
+        x = 2861.098039
+        y = 1635.941176
     }
 
     factory = {

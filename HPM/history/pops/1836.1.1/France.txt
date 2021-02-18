@@ -1,5 +1,5 @@
 #Picardy Region (2388000)
-#Lille (620000/155000 POPS)
+#Lille (606000/151500 POPS)
 399 = {
     aristocrats = {
         culture = french
@@ -40,95 +40,15 @@
     soldiers = {
         culture = picard
         religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = picard
-        religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = picard
-        religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = picard
-        religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = picard
-        religion = catholic
-        size = 3000
+        size = 9500
     }
 
     labourers = {
         culture = picard
         religion = catholic
-        size = 120500
+        size = 99500
     }
-}
-#Dunkirk (396000/99000 POPS)
-400 = {
-    aristocrats = {
-        culture = french
-        religion = catholic
-        size = 800
-    }
-
-    clergymen = {
-        culture = picard
-        religion = catholic
-        size = 850
-    }
-
-    artisans = {
-        culture = french
-        religion = catholic
-        size = 5000
-    }
-
-    soldiers = {
-        culture = french
-        religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = french
-        religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = french
-        religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = french
-        religion = catholic
-        size = 3000
-    }
-
-    soldiers = {
-        culture = french
-        religion = catholic
-        size = 1000
-    }
-
-    farmers = {
-        culture = picard
-        religion = catholic
-        size = 63550
-    }
-
+	
     artisans = {
         culture = flemish
         religion = catholic
@@ -147,7 +67,65 @@
         size = 15000
     }
 }
-#Arras (428000/107000 POPS)
+#Dunkirk (264000/66000 POPS)
+400 = {
+    aristocrats = {
+        culture = french
+        religion = catholic
+        size = 800
+    }
+
+    clergymen = {
+        culture = french
+        religion = catholic
+        size = 350
+    }
+
+    artisans = {
+        culture = french
+        religion = catholic
+        size = 1500
+    }
+
+    soldiers = {
+        culture = french
+        religion = catholic
+        size = 6500
+    }
+
+    farmers = {
+        culture = french
+        religion = catholic
+        size = 3500
+    }
+
+    clergymen = {
+        culture = picard
+        religion = catholic
+        size = 850
+    }
+
+    artisans = {
+        culture = picard
+        religion = catholic
+        size = 3500
+    }
+
+    soldiers = {
+        culture = picard
+        religion = catholic
+        size = 3500
+    }
+
+    farmers = {
+        culture = picard
+        religion = catholic
+        size = 47000
+    }
+
+
+}
+#Arras (400000/100000 POPS)
 401 = {
     aristocrats = {
         culture = french
@@ -158,13 +136,13 @@
     clergymen = {
         culture = french
         religion = catholic
-        size = 925
+        size = 625
     }
 
     artisans = {
-        culture = picard
+        culture = french
         religion = catholic
-        size = 5750
+        size = 4750
     }
 
     soldiers = {
@@ -176,13 +154,31 @@
     farmers = {
         culture = french
         religion = catholic
-        size = 60200
+        size = 59500
+    }
+	
+    clergymen = {
+        culture = picard
+        religion = catholic
+        size = 325
+    }
+
+    artisans = {
+        culture = picard
+        religion = catholic
+        size = 2250
+    }
+
+    soldiers = {
+        culture = picard
+        religion = catholic
+        size = 550
     }
 
     farmers = {
         culture = picard
         religion = catholic
-        size = 30125
+        size = 29850
     }
 }
 #Amiens (552000/138000 POPS)
@@ -319,7 +315,7 @@
         size = 120725
     }
 }
-#Cambrai (280000/70000 POPS)
+#Cambrai (420000/105000 POPS)
 404 = {
     aristocrats = {
         culture = french
@@ -349,6 +345,30 @@
         culture = french
         religion = catholic
         size = 64400
+    }
+	
+    clergymen = {
+        culture = picard
+        religion = catholic
+        size = 250
+    }
+
+    artisans = {
+        culture = picard
+        religion = catholic
+        size = 1750
+    }
+
+    soldiers = {
+        culture = picard
+        religion = catholic
+        size = 500
+    }
+
+    farmers = {
+        culture = picard
+        religion = catholic
+        size = 32200
     }
 }
 #Charleville (308000/77000 POPS)
